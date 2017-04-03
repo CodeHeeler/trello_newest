@@ -26,7 +26,7 @@ SECRET_KEY = '5z1$0t#@3=834-5@n06tdg)uoh!74h!h$ar=u8z819o%@i61!p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://warm-lake-67450.herokuapp.com/']
+ALLOWED_HOSTS = ['warm-lake-67450.herokuapp.com']
 
 
 # Application definition
