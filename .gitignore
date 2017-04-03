@@ -1,0 +1,6 @@
+*.sqlite3
+.direnv
+__pycache__/
+.envrc
+.DS_Store
+*.log
